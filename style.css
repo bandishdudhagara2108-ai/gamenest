@@ -79,3 +79,24 @@ footer{
   padding:30px;
   background:#111827;
 }
+#search{
+    padding:10px 15px;
+    border-radius:8px;
+    border:none;
+    width:250px;
+}
+
+nav{
+    display:flex;
+    gap:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#38bdf8;
+}
