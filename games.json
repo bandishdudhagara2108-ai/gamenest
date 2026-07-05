@@ -1,1 +1,37 @@
-
+[
+  {
+    "id": 1,
+    "title": "2048",
+    "category": "Puzzle",
+    "image": "assets/images/games/2048.png",
+    "url": "games/puzzle/2048.html"
+  },
+  {
+    "id": 2,
+    "title": "Snake",
+    "category": "Arcade",
+    "image": "assets/images/games/snake.png",
+    "url": "games/arcade/snake.html"
+  },
+  {
+    "id": 3,
+    "title": "Tetris",
+    "category": "Puzzle",
+    "image": "assets/images/games/tetris.png",
+    "url": "games/puzzle/tetris.html"
+  },
+  {
+    "id": 4,
+    "title": "Pong",
+    "category": "Arcade",
+    "image": "assets/images/games/pong.png",
+    "url": "games/arcade/pong.html"
+  },
+  {
+    "id": 5,
+    "title": "Tic Tac Toe",
+    "category": "Puzzle",
+    "image": "assets/images/games/tictactoe.png",
+    "url": "games/puzzle/tictactoe.html"
+  }
+]
